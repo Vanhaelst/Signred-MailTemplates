@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-1278c444:16c42bf2aee:-8000" />
+    <option name="version" value="4.2.1" />
+  </component>
+</application>
