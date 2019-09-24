@@ -6,6 +6,10 @@
           <option name="url" value="http://mediahuis.visualstudio.com" />
           <option name="userName" value="indy.vanhaelst@mediahuis.be" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="vanhaelst" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
